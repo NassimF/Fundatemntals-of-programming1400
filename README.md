@@ -14,13 +14,18 @@
 
 
 ### RAPTOR ویدئو های آموزش
+[مقدمه و اجزای رپتور](video) 
+
+
+
+
+### ویدئو های اضافی 
 
   (https://www.aparat.com/v/2ma3L/)    **:بخش اول**
   
   (https://www.aparat.com/v/FTElb)      **:بخش دوم**
   
   (https://www.aparat.com/v/0xCpr/)     **مرتب کردن سه عدد به صورت نزولی**
-  
   
   
   ### پاورپویت
