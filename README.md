@@ -15,6 +15,7 @@
 
 ### RAPTOR ویدئو های آموزش
 
+
   (https://www.aparat.com/v/2ma3L/)    **:بخش اول**
   
   (https://www.aparat.com/v/FTElb)      **:بخش دوم**
@@ -22,7 +23,7 @@
   (https://www.aparat.com/v/0xCpr/)     **مرتب کردن سه عدد به صورت نزولی**
   
   
-  
+
   ### پاورپویت
   
   [بخش اول: معرفی و اجزای رپتور](powerpoint)
